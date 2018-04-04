@@ -1,0 +1,3 @@
+Changed background color on h3 elements upon mousing over 
+Changed h3 text color to display white when moused over
+Animated the elements to toggle open upon mouseover
